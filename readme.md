@@ -18,6 +18,8 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 11. [Contact and Support List](contact-and-support-list.md)
 12. [Phase 0 Reading/Resource List](resources.md)
 13. [Fetching curriculum changes](fetching-changes.md)
-14. [FAQ's](FAQ.md)
+14. [Slack communications](slack.md)
+15. [Student Resources - google drive and pluralsight](student-resources.md)
+16. [FAQ's](FAQ.md)
 
 *To create an issue, look at the vertical navigation bar at the right. There should be a circle with an exclamation point. Click on that, and then click the "new issue" button. 
