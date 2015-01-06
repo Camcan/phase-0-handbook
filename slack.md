@@ -9,6 +9,44 @@ First off, you'll need an invitation to join the channel so have a dig around yo
 4. **A random channel** : for random stuff like Web development jokes.
 5. **An ideas-and-feedback channel** : For cool things and improvements.  
 
+## Your username (important)
+To better identify people on slack we would like everyone to standardise there slack user names. 
+This is not a built in feature of slack so we will follow the pattern of  
+  
+FirstName_LastNameINITIAL_cohort or coach_stream   
+  
+**For students, please include**   
+  
+1. First name  
+2. Last name initial  
+3. Cohort  
+4. Stream cs or rb   
+</br>  
+Example:  Donald_D_Kakapo_C#
+</br>   
+
+  
+**For coaches, please include**   
+  
+1. First name  
+2. Last name initial  
+3. Coach
+4. Stream cs, rb or all   
+</br>  
+Example:  Donald_D_coach_C#
+</br>   
+
+
+**For EDA Staff, please include**   
+  
+1. First name  
+2. Last name initial  
+3. EDA
+
+</br>  
+Example:  Donald_D_EDA
+</br>   
+
 ## Using slack 
 - We recommend that anytime you are working on the material you have slack open in the browser or in the desktop app. 
 - You will need to opt out of channels that don't apply to you (e.g. if your a Rubyist, you wan't to opt out of CS-questions).
