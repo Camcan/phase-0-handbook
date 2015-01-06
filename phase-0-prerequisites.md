@@ -56,7 +56,7 @@ These links won't work immediately as you will need to be invited to join them -
 
 - [Socrates](http://socrates.devbootcamp.com/)<br> You will receive an individual invite to socrates - The DevBoot Camp app that Dev Academy uses for activities like giving feedback. 
 
-- [Slack](https://ensprial-dev-academy.slack.com/messages/)<br> Our Slack channel is where you communications and support requests take place. Quite often coaches and alumni will be on the channel and able to unstick you if you get stuck. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
+- [Slack](/slack.md)<br> Our Slack channel is where you communications and support requests take place. Quite often coaches and alumni will be on the channel and able to unstick you if you get stuck. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
 
 - [Google Groups and student Google drive](https://drive.google.com/a/enspiral.com/folderview?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&usp=sharing)
 This is essentially a mailing list for your cohort (e.g. Kakapo-2015@devacademy.co.nz) and will give you access to learning materials that are stored on the student drive. 
