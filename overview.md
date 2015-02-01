@@ -19,9 +19,9 @@ While this is a predominately remote learning phase, we have a community of coac
 ## Phase 0 structure 
 Phase 0 is divided into 3 Units and each week you will be receiving a set of challenges and tasks to complete. The broad topics we cover in Phase 0 are:
 
-Unit 1: Console, Git, Front end Development
-Unit 2: Ruby / C# fundememntals
-Unit 3: Object Orientaated Programming, Databases and Review 
+Unit 1: Console, Git, Front end Development  
+Unit 2: Ruby / C# fundememntals  
+Unit 3: Object Orientaated Programming, Databases and Review  
 
 Each Monday we’ll send out the curriculum for the week. 
 
