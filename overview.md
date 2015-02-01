@@ -4,7 +4,7 @@
 
 
 ## Expectations
-Phase-0 is an integral part of the Dev Academy program. You will be expected to put in at least 20-40 hours of work per week (depending on experience) and at times you will find it overwhelming challenging - especially working remotely. We try to help you find the balance between taking responsibility for your own education, tracking your own progress, understanding and expressing your needs, and being supported and held accountable by us. You’re learning this balance in Phase 0, and it might get confusing or frustrating at times but that’s all part of the process.  Learning it here, during Phase 0, is what will help you maintain that balance during your 9 weeks at EDA.
+Phase-0 is an integral part of the Dev Academy program. You will be expected to put in at least 20-40 hours of work per week (depending on experience). We try to help you find the balance between taking responsibility for your own education, tracking your own progress, understanding and expressing your needs, and being supported and held accountable by us. You are learning this balance in Phase 0, and it might get confusing or frustrating at times but that’s all part of the process. Learning it here, during Phase 0, is what will help you maintain that balance during your 9 weeks at EDA.
 
 You can track your own progress by checking in to see if you’re fulfilling expectations, completing challenges on time, and if you’re able to demonstrate the learning competencies. 
 
@@ -19,9 +19,9 @@ While this is a predominately remote learning phase, we have a community of coac
 ## Phase 0 structure 
 Phase 0 is divided into 3 Units and each week you will be receiving a set of challenges and tasks to complete. The broad topics we cover in Phase 0 are:
 
-Unit 1: Git, HTML/CSS, Ruby or C#  
-Unit 2: Algorithms, Data and Object Oriented programming  
-Unit 3: JavaScript, SQL Databases and Review Time
+Unit 1: Console, Git, Front end Development
+Unit 2: Ruby / C# fundememntals
+Unit 3: Object Orientaated Programming, Databases and Review 
 
 Each Monday we’ll send out the curriculum for the week. 
 
@@ -43,8 +43,8 @@ For a little more info on our slack-usage, check out our [Slack intro guide](sla
 ##### Google-group 
 This is essentially like a mailing list for your cohort and is used to grant permissions to the student drive - home to digital copies of many of the books you will want to read.
 
-##### Your @devacademy.ac.nz email address 
-We will set everyone up with a .ac.nz email address. Note however, this is not like a normal email address - Any email sent to your devacademy.ac.nz address will be automatically forwarded to your personal email address. While you can't send email from it, you can use it to sign up to student discounts.  
+##### Your firstname.lastname@devacademy.ac.nz email address 
+We will set everyone up with a .ac.nz email address. Note however, this is not like a normal email address - Any email sent to your devacademy.ac.nz address will be automatically forwarded to your personal email address. The address is used primarily to provide you access to Pluralsight. 
 
 </br>  
 </br>  
