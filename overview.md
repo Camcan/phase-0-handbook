@@ -52,21 +52,27 @@ We will set everyone up with a .ac.nz email address. Note however, this is not l
 
 ## Guided Pairing Sessions (GPS)
 There will be 5-6 GPS sessions during phase-0 and you are expected to attend all of them. Please see [Guided Pairing Sessions](guided-pairing-sessions.md) for more help and details.   
+</br>  
+</br>  
   
 ## Peer Pairing Sessions
-You are expected to pair with a peer a number of times each unit. See [Peer-Pairing Sessions](peer-pairing-sessions.md) for more information. 
+You are expected to pair with a peer a number of times each unit. See [Peer-Pairing Sessions](peer-pairing-sessions.md) for more information.  
+</br>  
+</br>  
 
 ## Submissions  
-You will be asked to submit your challenges at the end of each week. They are due each Sunday at 11:59pm.
+You will be asked to submit your challenges at the end of each week. They are due each Sunday at 11:59pm.  
+</br>  
+</br>  
 
-## Challenges  
+## Challenges 
 Completing challenges does not mean that you have the right answer, the perfect code, or the best explanation.  It is your **own, honest, best** attempt at tackling the challenge using the process we defined (pseudocode, code, refactor, reflect), and we are most concerned with how quickly you can learn, not the "right" answer.
 
 If you are starting as a bashful beginner, your attempts may not even yield a working solution.  This is OK.  The most important thing we need to see is your engagement, your dedication to learning the material.  If your solution ends up being 30 lines of pseudocode and you don't know where to begin, make a comment saying where you are stuck and submit it.  Then reach out to your cohort mates to see if anyone has solved the challenge and pair with them.
   
 The objectives and challenges for each unit are not suggestions, and they are not optional.  These are expectations that we have of you in order for you to succeed and thrive during Phase 0, which will determine whether or not you’ll thrive during phases 1-3 at EDA.
 
-We expect you to satisfy your objectives on time, which means completing the week’s assignments and challenges by the following Sunday at 11:59pm.  If for any reason you cannot submit all of the challenges by that day, you need to contact your Phase 0 Facilitator. [See Contacts](contact-and-support-list.md)
+We expect you to satisfy your objectives on time, which means completing the week’s assignments and challenges by the following Sunday at 11:59pm.  If for any reason you cannot submit all of the challenges by that day, you need to contact your Phase 0 Facilitator.
 
 If you are not meeting these objectives and we do not know why, we start assuming one of two things:
 
