@@ -3,11 +3,11 @@
 # Frequently Asked Questions
 This will be updated as you ask questions on the google+ community. 
 
-**Q: Are Introductory Sessions on Skype or Google?**<br>
-**A:** From this point, all of our sessions will be conducted via google hangout. If you signed up properly, you should have an event on your google calendar with a link to join the video call. Join the call at the appropriate times. Follow [these instructions](intro-gps-signup.md) to sign up. 
+**Q: Do I need to sign up for an orientation session?**<br>
+**A:** Its important to attend either the morning or the evenings orientation session, however unless otherwise advised by your facilitator, there is no need to sign up to one. Simply be on your cohorts Slack channel 5 minutes before the start time. Your facilitator will advise you of the time. 
 
 **Q: How do I change my EDA email address?** <br>
-**A:** Unfortunately this isn't very simple at this point since we use multiple systems. You should contact the [facilitator](contact-and-support-list.md) with the following information to change your address: 
+**A:** Unfortunately this isn't very simple at this point since we use multiple systems. You should contact your facilitator with the following information to change your address: 
 
   Please include (just copy paste and fill in):
   
@@ -18,8 +18,11 @@ This will be updated as you ask questions on the google+ community.
   5. Do you want your email changed in Socrates as well? 
 
 **Q: Can we use EDA space in Phase 0?** <br>
-**A:** Unfortuntately at this time students are not able to use space on site during Phase 0, but we do have visiting hours. Please email your [facilitator](contact-and-support-list.md) to ask.
+**A:** Unfortuntately at this time students are not able to use space on site during Phase 0, but we do have visiting hours. 
 
-**Q: I didn't receive a google calendar invite. How can I get access to the necessary calendars?**<br>
-**A:** Because we use google groups to maintain permissions (far easier than inviting everyone separately), you won't always receive an email. But if your address is correct in the google group, you automatically have access. Go to the google+ community and find the two calendar links under "About this community." You can then add them. 
+**Q: Do I have a student email address?** <br>
+**A:** All students will have a firstname.lastname@devacademy.ac.nz. This is not like a usual email address however, and can not be used to send emails from. Any emails sent to the email will automatically arrive in your primary personal email account. 
+
+**Q: Do I have to pay for TeamTreehouse and Pluralsight?** <br>
+**A:** No, while you are in phase-0, EDA will cover the costs. If you however want to continue using treehouse after the 9 weeks, you will need to register a new account with your own credentials. Pluralsight is free to all students for 1 year. 
 
