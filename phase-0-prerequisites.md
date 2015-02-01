@@ -74,21 +74,23 @@ You are about to embark on a new learning experience. You will be challenged in 
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
 - Understand your <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what you enjoy or find challenging when learning (**optional**)
 
+#### 7. Read the [Course Overview](/overview.md) 
+The document contains expectations and descriptions of the tools you will use. 
 
-#### 6. Complete the End of Prep Survey
+#### 8. Complete the End of Prep Survey
 last but certainly not least! Complete the [End of Prep Survey](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform) This is required to start Phase 0.
 <br>  
 <br>  
 
 ## Additional tasks to help you hit the ground running. 
 
-#### 7. Read the [Phase 0 Handbook](readme.md)
-This detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Academy!
+#### 9. Read the [Student Handbook](readme.md) 
+The detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Academy!  
 
-#### 8. Update your browser
+#### 9. Update your browser
 It's very important that you're using the latest version of your web browser. For Phase 0, we recommend working with [Chrome](https://www.google.com/chrome/browser/).</br>  
   
-#### 9. Typing and shortcuts
+#### 10. Typing and shortcuts
 It's important to be able to type at a decent clip in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice!
 
 - Take a baseline [test](http://www.typingtest.com/index.html) to see how fast you currently type.
