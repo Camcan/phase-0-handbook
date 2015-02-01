@@ -4,7 +4,7 @@ Dev Academy makes modifications and edits to the curriculum often. When this hap
 
 It's important to note that **fetching changes will NOT override your work.** On the rare occasion we do modify a 'my_solution' file, you may have a merge conflict. All you'll have to do is select which parts you want. This is not likely to happen, so don't worry about it much. 
 
-Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update (`phase-0-unit-1`, `phase-0-unit-2`, or `phase-0-unit-3`). Check this by running `git branch` in your terminal. DO NOT try fetching changes into a different repo (than the one you want to update) or your [USERNAME].github.io repo. You will mess things up!
+Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update (phase-0-version-2.0). Check this by running `git branch` in your terminal. DO NOT try fetching changes into a different repo (than the one you want to update) or your [USERNAME].github.io repo. You will mess things up!
 
 
 ## Using the Command Line 
@@ -31,8 +31,8 @@ $ git remote -v
 ####3. Set up a new remote
 
 ```shell
-$ git remote add upstream https://github.com/pukeko-2015/phase-0-unit-1.git 
-# You are adding Pukeko's repository saying you want to be able to fetch (grab changes) from it.
+$ git remote add upstream https://github.com/dev-academy-phase0/phase-0-version-2.0.git 
+# You are adding the phase-0-version-2.0 repository saying you want to be able to fetch (grab changes) from it.
 
 ```
 
@@ -43,8 +43,8 @@ $ git remote -v
 
 origin    https://github.com/[your_username_here]/repo.git (fetch)
 # origin    https://github.com/[your_username_here]/repo.git (push)
-# upstream  https://github.com/pukeko-2015/phase-0-unit-1.git (fetch)
-# upstream  https://github.com/pukeko-2015/phase-0-unit-1.git (push) # You do not want to push to this repository!
+# upstream  https://github.com/dev-academy-phase0/phase-0-version-2.0.git  (fetch)
+# upstream  https://github.com/dev-academy-phase0/phase-0-version-2.0.git  (push) # You do not want to push to this repository!
 ```
 
 ### Updating your local repository
@@ -60,7 +60,7 @@ $ git fetch upstream
 # remote: Compressing objects: 100% (53/53), done.
 # remote: Total 62 (delta 27), reused 44 (delta 9)
 # Unpacking objects: 100% (62/62), done.
-# From https://github.com/pukeko-2015/phase-0-unit-1
+# From https://github.com/dev-academy-phase0/phase-0-version-2.0
 #  * [new branch]      master     -> upstream/master
 
 ```
