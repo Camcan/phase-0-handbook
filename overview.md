@@ -64,7 +64,7 @@ We will set everyone up with a .ac.nz email address in order to give you access 
   
 
 ## Pairing 
-In web development, pairing is one of the most useful skills you can have. It teaches you how to work with and cooperate and communicate well with others and also increases the effectiveness of problem solving - the premise being that 2 people looking at the same problem is better than 1. For more information about read [Peer-Pairing Sessions](peer-pairing-sessions.md)
+In web development, pairing is one of the most useful skills you can have. It teaches you how to work with and cooperate and communicate well with others and also increases the effectiveness of problem solving - the premise being that 2 people looking at the same problem is better than 1. For more information about read [Peer-Pairing Sessions](pairing-in-phase-0.md)
 
 </br>  
 </br>  
