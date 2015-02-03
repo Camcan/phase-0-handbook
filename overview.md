@@ -11,7 +11,7 @@ You can track your own progress by checking in to see if you’re fulfilling exp
 You will be expected to attempt and hand in all challenges. Those who do not meet the expectations or don't communicate with us about circumstances preventing the completion, are asked to repeat the units in the following cohort. 
 Likewise, we may also ask those who are struggling with the material to repeat certain units before entering into a bootcamp. 
 
-While this is a predominately remote learning phase, we have a community of coaches, support staff and alumni who will be available to help you during this time. Its important to use the tools we recommend, and to ask for help when you get stuck. In most cases we are able to virtually pair with you for coaching. There are also a limited number of on-site coaching options available for those who need it. 
+While this is a predominately remote learning phase, we have a community of coaches, support staff and alumni who will be available to help you during this time. Coaches have office hours during which they are available to answer your questions. Outside of the hours, we encourage students to reach out to their peers and alumni. 
 
 
 </br>  
@@ -22,8 +22,6 @@ Phase 0 is divided into 3 Units and each week you will be receiving a set of cha
 Unit 1: Console, Git, Front end Development  
 Unit 2: Ruby / C# fundememntals  
 Unit 3: Object Orientaated Programming, Databases and Review  
-
-Each Monday we’ll send out the curriculum for the week. 
 
 ## Tools of the trade
 ##### Github
@@ -43,20 +41,22 @@ For a little more info on our slack-usage, check out our [Slack intro guide](sla
 ##### Google-group 
 This is essentially like a mailing list for your cohort and is used to grant permissions to the student drive - home to digital copies of many of the books you will want to read.
 
+##### Team Treehouse 
+Much of the material to prepare you for bootcamp is delivered through Team Treehouse. EDA will provide you with a student treehouse account which you can use during the duration of phase-0 and bootcamp. For more information, see [Team TreeHouse](treehouse.md)
+
+##### Pluralsight 
+Pluralsight provides learning material for C# and you will need to create an account using your .ac.nz email address. For instructions on how to do this see [Pluralsight](pluralsight.md)
+
 ##### Your firstname.lastname@devacademy.ac.nz email address 
-We will set everyone up with a .ac.nz email address. Note however, this is not like a normal email address - Any email sent to your devacademy.ac.nz address will be automatically forwarded to your personal email address. The address is used primarily to provide you access to Pluralsight. 
+We will set everyone up with a .ac.nz email address in order to give you access to pluralsight. Note however, this is not like a normal email address and you can not send email from it. Any mail sent to your devacademy.ac.nz address will be automatically forwarded to your personal, googlelinked/gmail address. 
 
 </br>  
 </br>  
   
 
-## Guided Pairing Sessions (GPS)
-There will be 5-6 GPS sessions during phase-0 and you are expected to attend all of them. Please see [Guided Pairing Sessions](guided-pairing-sessions.md) for more help and details.   
-</br>  
-</br>  
-  
-## Peer Pairing Sessions
-You are expected to pair with a peer a number of times each unit. See [Peer-Pairing Sessions](peer-pairing-sessions.md) for more information.  
+## Pairing 
+In web development, pairing is one of the most useful skills you can have. It teaches you how to work with and cooperate and communicate well with others and also increases the effectiveness of problem solving - the premise being that 2 people looking at the same problem is better than 1. For more information about read [Peer-Pairing Sessions](peer-pairing-sessions.md)
+
 </br>  
 </br>  
 
