@@ -1,4 +1,6 @@
-## Team Treehouse 
+[Table of Contents](readme.md)  
+
+# Team Treehouse 
 
 Treehouse, a leading online education provider, seeks to help prospective coders become great coders by providing a rich library of over 600+ videos organized into specific learning tracks, along with interactive quizzes and code challenges. Treehouse provides deep and high quality training in HTML, CSS, Javascript, User Experience, as well as Back-End development in Ruby, PHP, iPhone and Android applications.
 
