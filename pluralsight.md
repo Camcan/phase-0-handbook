@@ -1,4 +1,6 @@
-## Pluralsight and Mircosoft sign up. 
+[Table of Contents](readme.md)  
+
+# Pluralsight and Mircosoft sign up. 
 
 All EDA students have 1 year free access to Pluralsights learning material. Its essential that all C# students signup prior to week 4 of phase-0.  
   
