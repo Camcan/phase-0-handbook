@@ -16,7 +16,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 9. [Solo Challenges](solo-challenges.md)
 10. [Research, Debugging, and Google](research-debugging-and-google.md)
 11. [Office Hours](office-hours.md)
-12. [Contact and Support List](contact-and-support-list.md)
+12. [Tutoring](tutoring.md)
 13. [Phase 0 Reading/Resource List](resources.md)
 14. [Fetching curriculum changes](fetching-changes.md)
 15. [Slack communications](slack.md)
