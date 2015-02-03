@@ -7,7 +7,7 @@ There's a list of available books in the [Dev Academy Student Drive](https://dri
 #### Surviving DevBootCamp
 - [One student's thoughts on surviving week 1 of Phase 1](http://slides.com/goodproduce/surviveweekone)
 
-## CS Resources
+#### CS Resources
 - [Awesome collection of CS cheat sheets](http://devcheatsheet.com/tag/c-sharp/)
 - [Head First C# book](https://drive.google.com/open?id=0B5aB0OHeInzgNXhSQm9Uek9Rcmc&authuser=0)
 
