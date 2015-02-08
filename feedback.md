@@ -4,7 +4,7 @@
 
 ###Submitting Feedback
 
-You must complete feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new) for every pairing session (GPS and Peer Pairing) you complete to receive credit for it. If you do not submit feedback for your pair, we will not know you have done the pairing session, and you may be flagged for not meeting Phase 0 expectations. 
+You must complete feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new) for every pairing session you complete to receive credit for it. If you do not submit feedback for your pair, we will not know you have done the pairing session, and you may be flagged for not meeting Phase 0 expectations. 
 
 **Make sure you watch [Engineering Empathy: EQ and Feedback prior to giving feedback](http://vimeo.com/76762772).**
 

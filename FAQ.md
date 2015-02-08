@@ -24,5 +24,5 @@ This will be updated as you ask questions on the google+ community.
 **A:** All students will have a firstname.lastname@devacademy.ac.nz. This is not like a usual email address however, and can not be used to send emails from. Any emails sent to the email will automatically arrive in your primary personal email account. 
 
 **Q: Do I have to pay for TeamTreehouse and Pluralsight?** <br>
-**A:** No, while you are in phase-0, EDA will cover the costs. If you however want to continue using treehouse after the 9 weeks, you will need to register a new account with your own credentials. Pluralsight is free to all students for 1 year. 
+**A:** No, while you are in phase-0, EDA will cover the costs. If you however want to continue using treehouse after you graduate, we can arrange a graduate package for you at a discounted rate. Pluralsight is free to all students for 1 year. 
 

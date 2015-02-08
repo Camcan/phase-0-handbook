@@ -1,3 +1,5 @@
+[Table of Contents](readme.md)  
+
 # The Three Agreements: Integrity, Kindness, and Effort (IKE)
 
 At Dev Academy, we have three agreements that guide our actions (this includes staff). We expect every person to uphold these values every day in Phase 0 and in the program. By enrolling in EDA, you agree to these agreements. 

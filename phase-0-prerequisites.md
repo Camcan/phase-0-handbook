@@ -38,6 +38,9 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 - [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. 
 
 - [Github](https://github.com/)<br> You will start using github on day-1, so please create an account with **your first name as part of your github user name.** This will be where you keep all of your code from EDA and becomes your technical resume when you apply for jobs.
+
+- [Stypi](http://stypi.com)<br> Stypi helps you share code with others. Click on the gear icon in the right hand corner. Create an account using your google-linked/gmail email address and use your **firstnamelastname** as your user name. You will use Stypi in the weeks to come when pairing with people or when seeking support from coaches. 
+
  
 #### 2. Onboarding 
 These links won't work immediately as you will need to be invited to join them - you will receive these invites during the week before phase-0 begins. Please make sure they are complete by the Friday before the start date and be sure to check your social messaging and spam folders. 
