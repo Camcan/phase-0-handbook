@@ -15,7 +15,7 @@ As the course progresses, you'll most certainly want to read whats fondly referr
 
 ## Pluralsight 
 If you'd like to get a head start, you are able to join up to Microsoft and have access to pluralsight.  
-To enable you access to these premium products, each student has a firstname-lastname@devacademy.ac.nz email address which will forward automatically to the email address you used when you enrolled at Dev Academy. 
+To enable you access to these premium products, each student has a firstname.lastname@devacademy.ac.nz email address which will forward automatically to the email address you used when you enrolled at Dev Academy. 
 The process is a little long winded, but worth it. Once you're signed up to Pluralsight you get access to premium tutorials in C#.
 
 Signing up for Dreamspark
