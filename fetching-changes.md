@@ -41,7 +41,7 @@ $ git remote add upstream https://github.com/dev-academy-phase0/phase-0-version-
 ```shell
 $ git remote -v
 
-origin    https://github.com/[your_username_here]/repo.git (fetch)
+# origin    https://github.com/[your_username_here]/repo.git (fetch)
 # origin    https://github.com/[your_username_here]/repo.git (push)
 # upstream  https://github.com/dev-academy-phase0/phase-0-version-2.0.git  (fetch)
 # upstream  https://github.com/dev-academy-phase0/phase-0-version-2.0.git  (push) # You do not want to push to this repository!
