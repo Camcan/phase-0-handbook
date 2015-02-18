@@ -24,8 +24,8 @@ While this is a predominately remote learning phase, we have a community of coac
 Phase 0 is divided into 3 Units and each week you will be receiving a set of challenges and tasks to complete. The broad topics we cover in Phase 0 are:
 
 Unit 1: Console, Git, Front end Development  
-Unit 2: Ruby / C# fundememntals  
-Unit 3: Object Orientaated Programming, Databases and Review  
+Unit 2: Ruby / C# fundamentals  
+Unit 3: Object-Oriented Programming, Databases and Review  
 
 </br>  
 </br>  
@@ -34,7 +34,7 @@ Unit 3: Object Orientaated Programming, Databases and Review
 
 ## Tools of the trade
 #### Github
-We use Github to host and distribute curriculum. Once you’ve signed up to Github ([see prerequisites](phase-0-prerequisites.md)), we'll grant you access to the "phase-0-unit-1" repo, where the unit-1 challenges.  
+We use Github to host and distribute curriculum. Once you’ve signed up to Github ([see prerequisites](phase-0-prerequisites.md)), we'll grant you access to the "phase-0-unit-1" repo, which contains the unit-1 challenges.  
   
 #### Slack 
 Slack is a communication channel where you can chat to your peers and ask for help from the EDA community of teachers, coaches and alumni. When you accept the invitation to slack, you'll automatically be added to the core EDA channels:
@@ -64,7 +64,7 @@ We will set everyone up with a .ac.nz email address in order to give you access 
   
 
 ## Pairing 
-In web development, pairing is one of the most useful skills you can have. It teaches you how to work with and cooperate and communicate well with others and also increases the effectiveness of problem solving - the premise being that 2 people looking at the same problem is better than 1. For more information about read [Peer-Pairing Sessions](pairing-in-phase-0.md)
+In web development, pairing is one of the most useful skills you can have. It teaches you how to work with and cooperate and communicate well with others and also increases the effectiveness of problem solving - the premise being that 2 people looking at the same problem is better than 1. For more information, read [Peer-Pairing Sessions](pairing-in-phase-0.md)
 
 </br>  
 </br>  
