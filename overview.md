@@ -33,10 +33,11 @@ Unit 3: Object-Oriented Programming, Databases and Review
 
 
 ## Tools of the trade
-#### Github
+##### Github
 We use Github to host and distribute curriculum. Once you’ve signed up to Github ([see prerequisites](phase-0-prerequisites.md)), we'll grant you access to the "phase-0-unit-1" repo, which contains the unit-1 challenges.  
   
-#### Slack 
+    
+##### Slack 
 Slack is a communication channel where you can chat to your peers and ask for help from the EDA community of teachers, coaches and alumni. When you accept the invitation to slack, you'll automatically be added to the core EDA channels:
 
 1. **A cohort specific channel** : For cohort communication.. say for example finding a partner to pair with.
@@ -47,16 +48,16 @@ Slack is a communication channel where you can chat to your peers and ask for he
 
 For a little more info on our slack-usage, check out our [Slack intro guide](slack.md)
 
-#### Google-group 
+##### Google-group 
 This is essentially like a mailing list for your cohort and is used to grant permissions to the student drive - home to digital copies of many of the books you will want to read.
 
-#### Team Treehouse 
+##### Team Treehouse 
 Much of the material to prepare you for bootcamp is delivered through Team Treehouse. EDA will provide you with a student treehouse account which you can use during the duration of phase-0 and bootcamp. For more information, see [Team TreeHouse](treehouse.md)
 
-#### Pluralsight 
+##### Pluralsight 
 Pluralsight provides learning material for C# and you will need to create an account using your .ac.nz email address. For instructions on how to do this see [Pluralsight](pluralsight.md)
 
-#### Your firstname.lastname@devacademy.ac.nz email address 
+##### Your firstname.lastname@devacademy.ac.nz email address 
 We will set everyone up with a .ac.nz email address in order to give you access to pluralsight. Note however, this is not like a normal email address and you can not send email from it. Any mail sent to your devacademy.ac.nz address will be automatically forwarded to your personal, googlelinked/gmail address. 
 
 </br>  
@@ -93,4 +94,6 @@ In either of these cases if we cannot clear with you what’s going on and give 
 So if the situation persists and you are not satisfying your objectives, not asking for help, and we don’t know your situation, we will review your admittance to EDA and potentially ask you to withdraw or delay your admittance.
 
 We hope this doesn’t sound too harsh or cold, but part of the reason for a more robust and engaged Phase 0 is to identify any problems you might have with EDA and learning our curriculum early, to spare you the pain, cost, and frustration of realizing any of these issues in Phase 1 after you’ve quit your jobs, uprooted, and changed your life.
-
+  
+----------------------------
+*This document is part of the [student handbook](readme.md). After completing the [prerequisites](phase-0-prerequisites.md), we recommend you read the handbook thoroughly. 
