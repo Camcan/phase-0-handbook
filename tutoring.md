@@ -22,4 +22,4 @@ Please don't avoid pairing with your peers because you are embarrassed about you
 
 ## Requesting a coaching session 
 
-Please contact the phase-0 facilitator to discuss how to book a coach. 
+Please contact the phase-0 facilitator book a coach.
