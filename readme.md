@@ -22,7 +22,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 15. [Slack communications](slack.md)
 16. [Stream requirements](/stream-requirements.md)
 17. [Student Resources - google drive](student-resources.md)
-18. [CSharp Windows Setup](/cs-setup/readme.md)
+18. [CSharp Windows Setup](/cs-setup/)
 17. [FAQ's](FAQ.md)
 
 *To create an issue, look at the vertical navigation bar at the right. There should be a circle with an exclamation point. Click on that, and then click the "new issue" button. 
