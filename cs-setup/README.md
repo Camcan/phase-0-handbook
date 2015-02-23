@@ -1,4 +1,4 @@
-[Week 1 Home](../..)
+
 
 # Computer Set-Up Instructions: C# on Windows
 If you are working on a Mac, Linux or Windows Vista machine you will need to deploy your own development machine. We suggest using [Xamarin](http://xamarin.com/platform) and [Mono](http://www.mono-project.com/).
