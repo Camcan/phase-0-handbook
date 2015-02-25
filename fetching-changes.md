@@ -119,4 +119,4 @@ $ git push origin master
 ```
 
 ###4. Check github.com!
-Look at your master branch on github.com. It should have your changes!
+Look at your master branch on github.com. If we've made any changes to the curriculum since you last cloned or fetched, you should see the changes!
