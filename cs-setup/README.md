@@ -250,7 +250,7 @@ choco install mssqlservermanagementstudio2014express
 ```
 Then
 ```
-choco install mssqlserver2014express
+choco install mssql2014express-defaultinstance
 ```
 
 ###Or if that doesnt work follow these instructions
