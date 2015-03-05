@@ -35,6 +35,14 @@ NOTE: If you come into difficulties follow this process:
 3. Google the error/problem (time box this to 5-10 min)
 4. Ask on Slack and move onto something else until you get help.
 
+###Enable Scripts!
+Three is a security feature in windows that disables the execution of scripts as default - this feature needs to be  turned off to make it possible to install stuff via powershell scripts.
+Simply type the following into PS and click enter when prompted.
+```
+set-executionpolicy remotesigned
+``` 
+See [here](http://www.faqforge.com/windows/windows-powershell-running-scripts-is-disabled-on-this-system/) for a more informative explanation.
+
 ## Release 0: Install Chocolatey
 Now lets install our package manager to get the libraries we need.
 
@@ -123,14 +131,6 @@ Install-Module Jump.Location
 ```
 
 NOTE: To use Jumplocation type "j" instead of "cd" and then a name of a folder you have been in and click tab - voilà! It will make suggestions of where you might want to go. It wont work at first as it uses a data table of information of where you have navigated to in PS. However once you have been somewhere you can than jump there next time.
-
-###Debug!
-If you encounter problems installing modules it is most likely due to a security feature of windows that disables the execution of scripts as a default - this feature can be turned off, i.e. making it possible to run scripts!
-Simply type the following into PS and click enter when prompted.
-```
-set-executionpolicy remotesigned
-``` 
-See [here](http://www.faqforge.com/windows/windows-powershell-running-scripts-is-disabled-on-this-system/) for a more informative explanation.
 
 ## Release 4: Install Sublime Text
 There two versions of Sublime Text (2 & 3). For the course we will be using Sublime Text 2 as it comes with an indefinite trial licence allowing students to work with it at EDA and decide if it is something they want to invest in in the future (at which point buy Sublime Text 3). It will pop up with purchase prompts - just cancel out of these when they appear.
