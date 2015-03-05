@@ -36,8 +36,9 @@ NOTE: If you come into difficulties follow this process:
 4. Ask on Slack and move onto something else until you get help.
 
 ###Enable Scripts!
-Three is a security feature in windows that disables the execution of scripts as default - this feature needs to be  turned off to make it possible to install stuff via powershell scripts.
-Simply type the following into PS and click enter when prompted.
+Three is a security feature in windows that disables the execution of scripts as default - this feature needs to be  turned off to make it possible to install stuff via powershell scripts.  
+*First open PowerShell as administrator*
+Then simply type the following into PS and click enter when prompted.
 ```
 set-executionpolicy remotesigned
 ``` 
