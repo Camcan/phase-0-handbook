@@ -58,7 +58,7 @@ Much of the material to prepare you for bootcamp is delivered through Team Treeh
 Pluralsight provides learning material for C# and you will need to create an account using your .ac.nz email address. For instructions on how to do this see [Pluralsight](pluralsight.md)
 
 ##### Your firstname.lastname@devacademy.ac.nz email address 
-We will set everyone up with a .ac.nz email address in order to give you access to pluralsight. Note however, this is not like a normal email address and you can not send email from it. Any mail sent to your devacademy.ac.nz address will be automatically forwarded to your personal, googlelinked/gmail address. 
+We will set everyone up with a .ac.nz email address in order to give you access to pluralsight. Note however, this is not like a normal email address and you can not send email from it. Any mail sent to your devacademy.ac.nz address will be automatically forwarded to your personal, googlelinked/gmail address. Please note, you won't be notified about this email, it simply just exists.
 
 </br>  
 </br>  
