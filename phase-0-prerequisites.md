@@ -31,7 +31,7 @@ You will need to know which stream you are wanting to be in (Ruby or C# .NET) be
 # Phase 0 Prerequisites
 
 #### 1. Create Accounts
-You will need each of these accounts for Phase 0. The general rule of thumb is to use your first name as part of your username wherever possible and include a photo of yourself (i.e. not your cat or bike). This helps us, the Dev Academy community of staff, teachers, coaches and alumni to better support and help you. 
+You will need each of these accounts for Phase 0. The general rule of thumb is to **use your first name as part of your username wherever possible** and include a photo of yourself (i.e. not your cat or bike). This helps us, the Dev Academy community of staff, teachers, coaches and alumni to better support and help you. 
 
 - [Google](https://accounts.google.com/Signup)<br> It is necessary to either link your personal email address to google or to use a gmail account. Please do not use a work email address. 
 
@@ -43,7 +43,7 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 
  
 #### 2. Onboarding 
-These links won't work immediately as you will need to be invited to join them - you will receive these invites during the week before phase-0 begins. Please make sure they are complete by the Friday before the start date and be sure to check your social messaging and spam folders. 
+**These links won't work immediately** as you will need to be invited to join them - you will receive these invites during the week before phase-0 begins. Please make sure they are complete by the Friday before the start date and be sure to check your social messaging and spam folders. 
 
 - [Socrates](http://sso.devbootcamp.com/) and Single Sign On (SSO). <br> You will receive an individual invite to Socrates - The DevBoot Camp app that Dev Academy uses for activities like giving feedback. This often gets stuck in filtered folders, so please search "Dev Bootcamp" in the search feild. Once you have you have created an account through using the sso (single sign on) you can then sign into [socrates](http://socrates.devbootcamp.com/).
 
@@ -51,6 +51,9 @@ These links won't work immediately as you will need to be invited to join them -
 
 - [Google Groups / Google drive](https://drive.google.com/a/enspiral.com/folderview?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&usp=sharing)
 This is essentially a mailing list for your cohort (e.g. Kakapo-2015@devacademy.co.nz) and will give you access to learning materials that are stored on the student drive. You can only access this once you have completed the end of prep survey. 
+
+- [TeamTreehouse](treehouse.md)
+Much of the material to prepare you for bootcamp is delivered through Team Treehouse. EDA will provide you with a student treehouse account which you can use during the duration of phase-0 and bootcamp. You should recieve an invite shortly.
 
 #### 3. Orientation 
 We will host a virtual orientation class the morning and evening of your phase-0 start date. Please schedule it into your calendars and be available to participate in EITHER one of the sessions (i.e. not both). Orientation will take about 45 minutes and will be a short intro to Dev Academy tools and challenge submission.  
