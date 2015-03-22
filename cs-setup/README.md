@@ -39,14 +39,14 @@ NOTE: If you come into difficulties follow this process:
 Three is a security feature in windows that disables the execution of scripts as default - this feature needs to be  turned off to make it possible to install stuff via powershell scripts.  
 **First open PowerShell as administrator**  
 
-###PRO TIP: 
-You should pin PS to your taskbar as you are going to be using it a lot. Right click on the powershell icon in your taskbar and click "Pin to taskbar". If you are ever in need of an "elevated shell" also known as "Administrator" shell, right click on the icon you have pinned to the task bar and click "Open as Administrator" or something to that effect.
-
 Then simply type the following into PS and click enter when prompted.
 ```
 set-executionpolicy remotesigned
 ``` 
 See [here](http://www.faqforge.com/windows/windows-powershell-running-scripts-is-disabled-on-this-system/) for a more informative explanation.
+
+###PRO TIP: 
+You should pin PS to your taskbar as you are going to be using it a lot. Right click on the powershell icon in your taskbar and click "Pin to taskbar". If you are ever in need of an "elevated shell" also known as "Administrator" shell, right click on the icon you have pinned to the task bar and click "Open as Administrator" or something to that effect.
 
 ## Release 0: Install Chocolatey
 Now lets install our package manager to get the libraries we need.
