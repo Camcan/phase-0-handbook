@@ -2,12 +2,12 @@
 
 # Pluralsight and Mircosoft sign up. 
 
-All EDA students have 1 year free access to Pluralsights learning material. Its essential that all C# students signup prior to week 4 of phase-0.  
+All EDA students have 3 months free access to Pluralsights learning material. Its essential that all C# students signup prior to week 4 of phase-0.  
   
 Ruby students will use Treehouse, so do not need to sign up for Pluralsight, unless they choose to. 
 
 **To signup for pluralsight you must first be given a firstname.lastname@devacademy.ac.nz email address.**    
-This is usually given to students 1-2 weeks prior to phase-0 start date. 
+These are given out automatically, after students complete their prep material. You won't be notified that your address is active.  
 
 ## Instructions 
 The process is a little long winded. Firstly you must create a Microsoft Dreamspark account. This gives you access premium products such Visual Studio, SQL Server etc.
