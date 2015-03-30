@@ -10,7 +10,7 @@ All students are provided a personal Treehouse account during phase-0 and bootca
 ### Getting the most out of Treehouse
 - There are many, many [benefits](http://teamtreehouse.com/features) to Treehouse including an increadibly helpful [forum](https://teamtreehouse.com/forum). Because of the size and capacity of treehouse, questions asked in the treehouse forum are often responded to within a few minutes.
 - Watch treehouse videos in half the time by altering the playback speed  
-![treehouse playback speed](imgs/treehousespeed.jpeg)
+![treehouse playback speed](imgs/treehousespeed.jpg)
 
 
 ### Post bootcamp
