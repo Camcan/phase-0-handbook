@@ -255,6 +255,10 @@ Then
 choco install mssql2014express-defaultinstance
 ```
 
+###Post install tasks.
+- Add NUnit Test Adapter to Visual Studio. Open Visual Studio and go to Tools => Extensions & Updates. Make sure online is selected as the source on the left and the type "NUnit Test Adapter" and install it once it finds it. Can take a few secondse!
+- Add Web Essentials to Visual Studio. Using the same Extensions & Updates window search for and install "Web Essentials 2013"
+
 ###Or if that doesnt work follow these instructions
 
 Go to the link below and sign in, you will be presented with a list of options of what you want to install.
