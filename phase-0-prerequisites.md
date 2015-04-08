@@ -19,7 +19,7 @@ If you have any questions, comments, concerns, or feedback for the Phase 0 team,
 #### Introduction
 Please take a moment to read the [students guide](https://drive.google.com/file/d/0B5aB0OHeInzgODlnR2hQZXk3c0U/view?usp=sharing) if you haven't done so already.   
   
-Phase 0 is an integral Phase of EDA; it is not optional. We cover the fundamentals you will need to be successful in the intensive portion of EDA.
+Phase 0 is an integral Phase of Enspiral Dev Academy (EDA); it is not optional. We cover the fundamentals you will need to be successful in the intensive portion of EDA.
 
 You may be thinking that Phase 0 will not be intense because it is remote, but it is. Please refrain from scheduling any vacations, trips, etc. during Phase 0 unless you expect to do the work during that time and have reliable internet access. There are weekly deadlines for challenges and other tasks you will be required to do each week.
 
