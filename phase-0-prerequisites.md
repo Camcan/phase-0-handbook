@@ -17,15 +17,16 @@ If you have any questions, comments, concerns, or feedback for the Phase 0 team,
 # Before Entering Phase 0
 
 #### Introduction
-Read Dev Boot Camp's [Blog Post](http://devbootcamp.com/2014/05/08/why-phase-0-is-key-to-your-success-at-dev-bootcamp/) on Phase 0. Phase 0 is an actual Phase of EDA; it is not optional. We cover the fundamentals you will need to be successful in the intensive portion of EDA.
+Please take a moment to read the [students guide](https://drive.google.com/file/d/0B5aB0OHeInzgODlnR2hQZXk3c0U/view?usp=sharing) if you haven't done so already.   
+  
+Phase 0 is an integral Phase of EDA; it is not optional. We cover the fundamentals you will need to be successful in the intensive portion of EDA.
 
-You may be thinking that Phase 0 will not be intense because it is remote, but it is. Please refrain from scheduling any vacations, trips, etc. during Phase 0 unless you expect to do the work during that time and have reliable internet access. There are weekly deadlines for challenges, pairing requirements, and other tasks you will be required to do each week.
+You may be thinking that Phase 0 will not be intense because it is remote, but it is. Please refrain from scheduling any vacations, trips, etc. during Phase 0 unless you expect to do the work during that time and have reliable internet access. There are weekly deadlines for challenges and other tasks you will be required to do each week.
 
 The amount of time it takes to complete each week varies greatly from person to person. On average people spend 20-30 hours a week, however some are able to complete in much less while others need to spend longer on the material. If you are unable to complete the material, you might be requested to repeat the phase. 
 
 #### Choose your stream 
 You will need to know which stream you are wanting to be in (Ruby or C# .NET) before phase-0 begins. If you don't know yet which stream you will be in, please check out the [stream requirements](/stream-requirements.md)
-
 
 
 # Phase 0 Prerequisites
@@ -44,8 +45,6 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
  
 #### 2. Onboarding 
 **These links won't work immediately** as you will need to be invited to join them - you will receive these invites during the week before phase-0 begins. Please make sure they are complete by the Friday before the start date and be sure to check your social messaging and spam folders. 
-
-- [Socrates](http://sso.devbootcamp.com/) and Single Sign On (SSO). <br> You will receive an individual invite to Socrates - The DevBoot Camp app that Dev Academy uses for activities like giving feedback. This often gets stuck in filtered folders, so please search "Dev Bootcamp" in the search feild. Once you have you have created an account through using the sso (single sign on) you can then sign into [socrates](http://socrates.devbootcamp.com/).
 
 - [Slack](/slack.md)<br> Our Slack channel is where you communications and support requests take place. Quite often coaches and alumni will be on the channel and able to unstick you if you get stuck. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
 
@@ -69,9 +68,14 @@ You will be expected to be familiar with each of these prior to starting Phase 0
 - Giving and Receiving [Feedback](https://vimeo.com/99780302) 27 min
 - Checking in before [Pairing](https://vimeo.com/76662569) 5 min
 
+#### 5. Complete the End of Prep Survey
+Complete the [End of Prep Survey](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform). Within the form there is an optional question regarding your learning style (see personal preperation below). If you have the time we recommend completing step 6 before starting the survey. 
+<br>  
+<br> 
 
+## Optional but highly recommended:
 
-#### 5. Personal Preparation 
+#### 6. Personal Preparation 
 
 You are about to embark on a new learning experience. You will be challenged in new ways that will excite and frustrate you (often at the same time). It's important to prepare yourself for success by recognizing how you learn best and what you enjoy when you are in a learning environment. Recognizing what you need will help you be able to express what you need when learning and make your experience at Dev Academy more fulfilling. You will be spending a significant amount of time working with others, so it's important to practice explaining your ideas to others. **keep track of your results**
 
@@ -80,23 +84,7 @@ You are about to embark on a new learning experience. You will be challenged in 
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
 - Understand your <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what you enjoy or find challenging when learning (**optional**)
 
-#### 7. Read the [Course Overview](/overview.md) 
-The document contains expectations and descriptions of the tools you will use. 
-
-#### 8. Complete the End of Prep Survey
-last but certainly not least! Complete the [End of Prep Survey](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform) This is required to start Phase 0.
-<br>  
-<br>  
-
-## Additional tasks to help you hit the ground running. 
-
-#### 9. Read the [Student Handbook](readme.md) 
-The detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Academy!  
-
-#### 9. Update your browser
-It's very important that you're using the latest version of your web browser. For Phase 0, we recommend working with [Chrome](https://www.google.com/chrome/browser/).</br>  
-  
-#### 10. Typing and shortcuts
+#### 7. Typing and shortcuts
 It's important to be able to type at a decent clip in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice!
 
 - Take a baseline [test](http://www.typingtest.com/index.html) to see how fast you currently type.
@@ -105,7 +93,15 @@ It's important to be able to type at a decent clip in this new career you've emb
 - For shortcuts, try [shortcutfoo](shortcutfoo.com). You'll want to know about some of the awesome sublime text shortcuts.
 You need to be able to:
  - Type at least 40 words per minute
- - Use common shortcuts in Sublime
+ - Use common shortcuts in Sublime  
+
+#### 7. Read the [This Handbook](readme.md)  
+The detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Academy!   
+
+#### 8. Update your browser
+It's very important that you're using the latest version of your web browser. For Phase 0, we recommend working with [Chrome](https://www.google.com/chrome/browser/).</br>  
+  
+
 
 -------------------
 
