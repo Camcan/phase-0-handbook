@@ -1,7 +1,5 @@
 # Guidelines for Submitting Challenges
 
-At this point, you should be working entirely off your forked copy of the phase zero repository. If you don't already have a local copy of this repo on your computer, you'll have to clone one down. If you've forgotten how, please refer back to the [Git Practice](../../unit_1/week_1/git_practice/README.md) challenge from week 1.
-
 ## Navigate to the Challenge's Folder
 
 Use terminal to find your challenge's folder, and open its contents with sublime. 
