@@ -1,7 +1,7 @@
 <img src="http://i.imgur.com/qsabygI.png" height="50% "width="50%">
 
 # Welcome to Enspiral Dev Academy!
-*Last Revised 1/02/2015*
+*Last Revised 1/04/2015*
 
 You are in your pre-Phase 0 prep period. Before you can start Phase 0, you will need to complete a few administrative tasks and personal preparation. Please go through each of these sections and complete each task. You should be well acquainted with our program by the end and will be ready to start Phase 0 by your start date.
 
@@ -25,9 +25,8 @@ You may be thinking that Phase 0 will not be intense because it is remote, but i
 
 The amount of time it takes to complete each week varies greatly from person to person. On average people spend 20-30 hours a week, however some are able to complete in much less while others need to spend longer on the material. If you are unable to complete the material, you might be requested to repeat the phase. 
 
-#### Choose your stream 
-You will need to know which stream you are wanting to be in (Ruby or C# .NET) before phase-0 begins. If you don't know yet which stream you will be in, please check out the [stream requirements](/stream-requirements.md)
-
+<!-- #### Choose your stream 
+You will need to know which stream you are wanting to be in (Ruby or C# .NET) before phase-0 begins. If you don't know yet which stream you will be in, please check out the [stream requirements](/stream-requirements.md) -->
 
 # Phase 0 Prerequisites
 
@@ -56,10 +55,7 @@ Much of the material to prepare you for bootcamp is delivered through Team Treeh
 
 #### 3. Orientation 
 We will host a virtual orientation class the morning and evening of your phase-0 start date. Please schedule it into your calendars and be available to participate in EITHER one of the sessions (i.e. not both). Orientation will take about 45 minutes and will be a short intro to Dev Academy tools and challenge submission.  
-  
-</br>
-</br>  
-   
+
 #### 4. Watch
 The following videos introduce some key concepts of the Phase 0 experience.
 You will be expected to be familiar with each of these prior to starting Phase 0.
@@ -95,7 +91,7 @@ You need to be able to:
  - Type at least 40 words per minute
  - Use common shortcuts in Sublime  
 
-#### 7. Read the [This Handbook](readme.md)  
+#### 7. Read [This Handbook](readme.md)  
 The detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Academy!   
 
 #### 8. Update your browser
