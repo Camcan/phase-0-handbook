@@ -259,6 +259,11 @@ Then
 choco install mssql2014express-defaultinstance
 ```
 
+And then...
+```
+choco install sqlserverlocaldb
+```
+
 ###Or if that doesnt work follow these instructions
 
 Go to the link below and sign in, you will be presented with a list of options of what you want to install.
