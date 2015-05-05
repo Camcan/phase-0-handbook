@@ -5,11 +5,6 @@
 
 You are in your pre-Phase 0 prep period. Before you can start Phase 0, you will need to complete a few administrative tasks and personal preparation. Please go through each of these sections and complete each task. You should be well acquainted with our program by the end and will be ready to start Phase 0 by your start date.
 
-It is necessary to complete the [End of Prep Survey](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform) after you have completed all the tasks. The sooner you do this, the sooner we are able to provide you access to material and cirriculum. 
-
-**Please note:** During the week prior to phase-0 you will begin to receive a number of important invitations to our Dev Academy systems. Please be on the lookout for these messages.
-
-If you have any questions, comments, concerns, or feedback for the Phase 0 team, please contact us at <phase0@devacademy.co.nz>. 
 
 
 
@@ -19,11 +14,11 @@ If you have any questions, comments, concerns, or feedback for the Phase 0 team,
 #### Introduction
 Please take a moment to read the [students guide](https://drive.google.com/file/d/0B5aB0OHeInzgODlnR2hQZXk3c0U/view?usp=sharing) if you haven't done so already.   
   
-Phase 0 is an integral Phase of Enspiral Dev Academy (EDA); it is not optional. We cover the fundamentals you will need to be successful in the intensive portion of EDA.
+Phase 0 is an integral Phase of Enspiral Dev Academy (EDA); it is not optional. We cover the fundamentals you will need to be successful in the intensive bootcamp portion of EDA.
 
-You may be thinking that Phase 0 will not be intense because it is remote, but it is. Please refrain from scheduling any vacations, trips, etc. during Phase 0 unless you expect to do the work during that time and have reliable internet access. There are weekly deadlines for challenges and other tasks you will be required to do each week.
+It can be difficult learning remotely, so we encourage you to work with your peers online and in person as much as possible. Please refrain from scheduling any vacations, trips, etc. unless you expect to do the work and have reliable internet access during that time. It is a fine balance between self-governed learning and meeting the expectations we set. There are weekly deadlines for challenges. On average people spend 20-30 hours a week on the challenges.  
 
-The amount of time it takes to complete each week varies greatly from person to person. On average people spend 20-30 hours a week, however some are able to complete in much less while others need to spend longer on the material. If you are unable to complete the material, you might be requested to repeat the phase. 
+If you are unable to complete the material, you might be requested to repeat the phase. 
 
 <!-- #### Choose your stream 
 You will need to know which stream you are wanting to be in (Ruby or C# .NET) before phase-0 begins. If you don't know yet which stream you will be in, please check out the [stream requirements](/stream-requirements.md) -->
@@ -41,9 +36,10 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 
 - [Stypi](http://stypi.com)<br> Stypi helps you share code with others. Click on the gear icon in the right hand corner. Create an account using your google-linked/gmail email address and use your **firstnamelastname** as your user name. You will use Stypi in the weeks to come when pairing with people or when seeking support from coaches. 
 
+- [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/)<br> Meetup is the channel by which we advertise our coding events. 
  
-#### 2. Onboarding 
-**These links won't work immediately** as you will need to be invited to join them - you will receive these invites during the week before phase-0 begins. Please make sure they are complete by the Friday before the start date and be sure to check your social messaging and spam folders. 
+#### 2. Accept Invitations
+These links will only work once we've recieved your prep survey and we've added you to the systems. 
 
 - [Slack](/slack.md)<br> Our Slack channel is where you communications and support requests take place. Quite often coaches and alumni will be on the channel and able to unstick you if you get stuck. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
 
@@ -54,7 +50,7 @@ This is essentially a mailing list for your cohort (e.g. Kakapo-2015@devacademy.
 Much of the material to prepare you for bootcamp is delivered through Team Treehouse. EDA will provide you with a student treehouse account which you can use during the duration of phase-0 and bootcamp. You should recieve an invite shortly.
 
 #### 3. Orientation 
-We will host a virtual orientation class the morning and evening of your phase-0 start date. Please schedule it into your calendars and be available to participate in EITHER one of the sessions (i.e. not both). Orientation will take about 45 minutes and will be a short intro to Dev Academy tools and challenge submission.  
+We will host a virtual orientation class the morning and evening of your phase-0 start date. Please schedule it into your calendars and be available to participate in EITHER one of the sessions (i.e. not both). Orientation will take about 45 minutes and will be a short intro to Dev Academy tools and challenge handins.  
 
 #### 4. Watch
 The following videos introduce some key concepts of the Phase 0 experience.
@@ -105,7 +101,7 @@ It's very important that you're using the latest version of your web browser. Fo
 - [Code Academy](http://www.codecademy.com/learn) To get started learning Javascript, Ruby and or CSS/HTML **free**
 - [Try Git](https://www.codeschool.com/courses/try-git) Git is the main tool you will use everyday and takes quite sometime to understand. Get started early with this course **free**
 - [Git Branching](http://pcottle.github.io/learnGitBranching/) Once you have the basics down, get more familiar with git branching **free**
-- [CS 50: Harvard Intro to Computer Science Course Interesting](https://cs50.harvard.edu/)Interesting and accessible lectures - great for students who want to know more about basic Computer Science. **free**
+- [CS 50: Harvard Intro to Computer Science Course Interesting](https://cs50.harvard.edu/) Interesting and accessible lectures - great for students who want to know more about basic Computer Science. **free**
 - [Discover Dev Tools](https://www.codeschool.com/courses/discover-devtools) Chrome DevTools can sharpen your dev process optimize your workflow to make life easier. **free**
 - [Try Ruby](https://www.codeschool.com/courses/try-ruby) Learn the basic building blocks of Ruby, all in the browser. **free**
  
