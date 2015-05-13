@@ -5,16 +5,9 @@
 
 You are in your pre-Phase 0 prep period. Before you can start Phase 0, you will need to complete a few administrative tasks and personal preparation. Please go through each of these sections and complete each task. You should be well acquainted with our program by the end and will be ready to start Phase 0 by your start date.
 
-
-
-
-***
-# Before Entering Phase 0
-
-#### Introduction
 Please take a moment to read the [students guide](https://drive.google.com/file/d/0B5aB0OHeInzgODlnR2hQZXk3c0U/view?usp=sharing) if you haven't done so already.   
   
-Phase 0 is an integral Phase of Enspiral Dev Academy (EDA); it is not optional. We cover the fundamentals you will need to be successful in the intensive bootcamp portion of EDA.
+Phase 0 is an integral phase of Enspiral Dev Academy (EDA); it is not optional. We cover the fundamentals you will need to be successful in the intensive bootcamp portion of EDA.
 
 It can be difficult learning remotely, so we encourage you to work with your peers online and in person as much as possible. Please refrain from scheduling any vacations, trips, etc. unless you expect to do the work and have reliable internet access during that time. It is a fine balance between self-governed learning and meeting the expectations we set. There are weekly deadlines for challenges. On average people spend 20-30 hours a week on the challenges.  
 
@@ -36,8 +29,12 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 
 - [Stypi](http://stypi.com)<br> Stypi helps you share code with others. Click on the gear icon in the right hand corner. Create an account using your google-linked/gmail email address and use your **firstnamelastname** as your user name. You will use Stypi in the weeks to come when pairing with people or when seeking support from coaches. 
 
-- [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/)<br> Meetup is the channel by which we advertise our coding events. 
- 
+- [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/)<br> Meetup is the channel by which we advertise our coding events. We recommend changing the [default email settings](http://www.meetup.com/account/comm/) to reduce the number of emails.   
+  
+[![Gyazo](http://i.gyazo.com/e0c8b3c2e164162d2e021619aee97881.gif)](http://gyazo.com/e0c8b3c2e164162d2e021619aee97881)
+  
+  
+
 #### 2. Accept Invitations
 These links will only work once we've recieved your prep survey and we've added you to the systems. 
 
@@ -62,8 +59,7 @@ You will be expected to be familiar with each of these prior to starting Phase 0
 
 #### 5. Complete the End of Prep Survey
 Complete the [End of Prep Survey](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform). Within the form there is an optional question regarding your learning style (see personal preperation below). If you have the time we recommend completing step 6 before starting the survey. 
-<br>  
-<br> 
+
 
 ## Optional but highly recommended:
 
